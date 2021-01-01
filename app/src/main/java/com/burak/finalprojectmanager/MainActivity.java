@@ -124,7 +124,6 @@ public class MainActivity extends AppCompatActivity {
 
         }else {
             String id = selected.getId();
-            //String status = connection.child(id).child("acceptance");
             Internship newIntern = new Internship(id, nameSurname.getText().toString(),
                     class_no.getText().toString(),
                     mail.getText().toString(),
