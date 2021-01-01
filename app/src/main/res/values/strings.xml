@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kraliyet Bankası Staj Yönetici</string>
+    <string name="name">İsim Soyisim:</string>
+    <string name="class_no">Sınıf:</string>
+    <string name="mail">Mail Adresi:</string>
+    <string name="age">Yaş:</string>
+    <string name="sector">Departman:</string>
+    <string name="save">Kayıt</string>
+    <string name="update">Güncelle</string>
+    <string name="delete">Sil</string>
+    <string name="accept">Kabul et</string>
+    <string name="reject">Reddet</string>
+    <string name="status">Kabul durumu:</string>
+</resources>
